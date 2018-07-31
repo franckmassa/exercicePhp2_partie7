@@ -6,8 +6,7 @@
 </head>
 <body>
   <p>
-    <!--Récupération des données du formulaire-->
-    Bonjour : <?php echo $_POST['firstName'] . ' ' . $_POST['lastName']; ?>
+    
   </p>
 </body>
 </html>
